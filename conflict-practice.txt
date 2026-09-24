@@ -1,1 +1,1 @@
-Training mode: Original
+Training mode: Classroom
