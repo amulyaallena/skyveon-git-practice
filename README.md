@@ -3,3 +3,8 @@ This repository contains my beginner Git exercises.
 
 ## Training goal
 Learn to manage project changes safely.
+
+## Review process
+
+reviewing the process.
+1234
